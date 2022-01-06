@@ -1,0 +1,3 @@
+sudo mount -o nobrowse -t apfs /dev/disk2s5 /Users/y/Desktop/macc
+挂载命令
+sudo bless --folder /Users/y/Desktop/macc/System/Library/CoreServices --bootefi --create-snapshot
